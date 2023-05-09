@@ -1,47 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\UNITY\\AstronautaPlantila\\Astronauta\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\UNITY\\PruebaGuthub\\Ar-Unity\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\UNITY\\AstronautaPlantila\\Astronauta\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\UNITY\\PruebaGuthub\\Ar-Unity\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "2,2",
-                        "startOffsets": "55,102",
-                        "endColumns": "45,65",
-                        "endOffsets": "98,165"
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
-                        "startLines": "8,9",
-                        "startColumns": "4,4",
-                        "startOffsets": "356,404",
-                        "endColumns": "47,67",
-                        "endOffsets": "399,467"
-                    }
-                },
-                {
-                    "source": "C:\\UNITY\\AstronautaPlantila\\Astronauta\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "5,2,7",
-                        "startColumns": "0,0,0",
-                        "startOffsets": "190,53,288",
-                        "endLines": "6,4,10",
-                        "endColumns": "8,8,8",
-                        "endOffsets": "286,188,513"
-                    },
-                    "to": {
-                        "startLines": "11,13,16",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "552,652,790",
-                        "endLines": "12,15,19",
-                        "endColumns": "8,8,8",
-                        "endOffsets": "647,785,1012"
-                    }
-                },
-                {
-                    "source": "C:\\UNITY\\AstronautaPlantila\\Astronauta\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
-                    "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
                         "startOffsets": "55,101,158,214,263,309",
@@ -50,20 +19,51 @@
                     }
                 },
                 {
+                    "source": "C:\\UNITY\\PruebaGuthub\\Ar-Unity\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "11,13,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "553,653,791",
+                        "endLines": "12,15,19",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "648,786,1013"
+                    }
+                },
+                {
+                    "source": "C:\\UNITY\\PruebaGuthub\\Ar-Unity\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,-1",
+                        "startColumns": "2,-1",
+                        "startOffsets": "55,-1",
+                        "endColumns": "46,-1",
+                        "endOffsets": "99,-1"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "356,405",
+                        "endColumns": "48,67",
+                        "endOffsets": "400,468"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Ale\\.gradle\\caches\\transforms-2\\files-2.1\\3cc3b247cdae5b3cdac16bbbadb04a5c\\VuforiaEngine\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "79",
-                        "endOffsets": "130"
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
                     },
                     "to": {
                         "startLines": "10",
                         "startColumns": "4",
-                        "startOffsets": "472",
+                        "startOffsets": "473",
                         "endColumns": "79",
-                        "endOffsets": "547"
+                        "endOffsets": "548"
                     }
                 }
             ]
